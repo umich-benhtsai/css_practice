@@ -20,7 +20,9 @@ p {
 }
 img {
   width: 250px;
-  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   border: 10px dashed #ffffff;
 }
 div {
